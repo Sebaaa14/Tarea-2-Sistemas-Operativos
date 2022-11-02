@@ -1,0 +1,4 @@
+Juan 6 1 10
+Luis 7 2 4 
+Manuel 9 1 11
+Rocio 3 3 8
